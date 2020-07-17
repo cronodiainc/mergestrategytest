@@ -3,6 +3,7 @@ Short lived repo, to test different branching, merging approaches/strategies in 
 
 ## Quick start
 - Clone this repository
+- Do some commits
 
 ## Related articles that might prove to be helpful
 - https://www.atlassian.com/git/tutorials/comparing-workflows
