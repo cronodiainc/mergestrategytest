@@ -13,3 +13,8 @@ Short lived repo, to test different branching, merging approaches/strategies in 
 - https://newsignature.com/articles/git-branching-strategies/
 - https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf
 
+## Non releated articles that migth also help
+- https://github.com/marketplace/actions/auto-assign-action
+- https://stackoverflow.com/questions/46340474/set-a-default-reviewer
+- https://docs.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow#creating-a-workflow-file
+
